@@ -1,0 +1,10 @@
+name = "Grapple"; 								// name
+picture = "Mods/DZGrapple/modpic.tga";			// picture in expanded description
+logoSmall = "Mods/DZGrapple/modlogosmall.tga";	// icon next to mod name when description is not expanded
+logo = "Mods/DZGrapple/modlogo.tga";			// logo below game menu
+logoOver = "Mods/DZGrapple/modlogohover.tga";	// on mouse hover over logo
+tooltip = "Adds in a simple grappling system into DayZ";							// tool tip on mouse hover
+overview = "Adds in a simple grappling system into DayZ"; 						// overview
+action = "https://dayz.com/";					// link
+author = "modguy";								// author
+version = "1.5";								// version
